@@ -1,0 +1,21 @@
+pc(your ship)
+
+npc(Enemy spaceships)
+
+goal(to beat the level by beating all 
+the waves which consist of enemies)
+
+balance(Make the enemies have more immunity to
+your bullets, but also upgrade your bullets.)
+
+rules(If hit by an enemy shot you will die)
+
+story(You were in an intergalactic war with other
+planets and are now tasked with defending the 
+front line of defense.)
+
+adaptivity(Make the enemies have more immunity to
+your bullets, and you have less capacity for 
+bullets)
+
+feedback(Have a bullet counter and a wave counter.)
